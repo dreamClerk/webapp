@@ -63,16 +63,16 @@ const Contact = () => {
                             Social Links
                         </h3>
                         <aside className='flex justify-between items-center text-2xl font-astrapi-font-medium px-10 py-6 rounded-md bg-[#f8f8f8] w-[370px] md:w-[400px] border border-primary'>
-                            <a href="https://www.instagram.com/allotrix" target='blank'>
+                            <a href="https://www.instagram.com/arjun._an?igsh=Z3IxemIwOGtkdmkz&utm_source=qr" target='blank'>
                                 <img src={'/insta.png'} className='max-h-[50px] max-w-[50px]' alt="Instagram" />
                             </a>
-                            <a href="https://twitter.com/allotrixapp" target='blank'>
+                            <a href="https://x.com/" target='blank'>
                                 <img src={'/x.png'} className='max-h-[50px] max-w-[50px]' alt="X" />
                             </a>
                             <a>
                                 <img src={'/youtube.png'} className='max-h-[50px] max-w-[50px]' alt="Youtube" />
                             </a>
-                            <a href="https://www.linkedin.com/company/allotrix-automation/mycompany/" target='blank'>
+                            <a href="https://www.linkedin.com/in/arjun-sv-6bbb8a316/" target='blank'>
                                 <img src={'/linkedin.png'} className='max-h-[50px] max-w-[50px]' alt="Linkedin" />
                             </a>
                         </aside>
